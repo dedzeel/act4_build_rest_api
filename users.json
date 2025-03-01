@@ -1,0 +1,17 @@
+{
+    "f92a83a0-8b0d-452a-ad8e-0ae0d92ead93": {
+        "id": "f92a83a0-8b0d-452a-ad8e-0ae0d92ead93",
+        "email": "jammylammy@gmail.com",
+        "password": "$2b$10$b6ZUU6yXdUR6SSnF8U9xSezHezzSGL2cGuiZrul2PuK56M/oz05T2",
+        "name": "Watch",
+        "price": 7000,
+        "quantity": 2,
+        "image": "image-url.png"
+    },
+    "6e91a928-e1f1-42e7-974a-d14b2c3302ca": {
+        "id": "6e91a928-e1f1-42e7-974a-d14b2c3302ca",
+        "username": "jammy",
+        "email": "jammylammy@gmail.com",
+        "password": "$2b$10$vq0W268qD3UP7TLq/0aY.uF3E76n6x2wBoG2AUXLF2vnbPS1PhT56"
+    }
+}
